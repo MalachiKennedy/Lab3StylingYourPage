@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5,{
+  background-color: lightsteelblue;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+  background-color: steelblue;
+  color:black;
+  font-family: 'Courier New', Courier, monospace;
+  border:3px;
+  border-radius: 20%;
+  border-style: solid;
+}
